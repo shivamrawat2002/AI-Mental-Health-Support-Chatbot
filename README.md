@@ -1,4 +1,4 @@
-# 🧠 SafeSpace – AI Mental Health Therapist
+# 🧠 AI Mental Health Therapist
 
 SafeSpace is an **AI-powered mental health companion** that combines a chat-style frontend, an LLM-based backend agent, and integrations with **Twilio WhatsApp** and **Google Maps**.  
 It is designed as an **educational / demo project** to showcase how to build a **tool-using AI agent** for mental health–style conversations.
